@@ -29,19 +29,6 @@ In this project, we:
 
 We use the **68k Peripheral Blood Mononuclear Cells (PBMC)** dataset by Zheng et al. (2017) [10x Genomics]. It contains ~68,000 cells profiled using droplet-based RNA-seq.
 
----
-
-## Repository Structure
-
-.
-├── UMaps.ipynb # Main notebook for sketching, plotting and evaluation
-├── figures/ # Folder containing generated figures (UMAPs, runtimes, diversity)
-├── cluster_diversity_err.png # Cluster coverage barplot
-├── time_comparison.png # Runtime comparison for 1000-cell sketch
-├── time_scalability.png # Log-scaled runtime vs. sketch size
-├── README.md # Project documentation
-└── Report.pdf # Full 7-page report with figures, equations, and reference
-
 
 ---
 
